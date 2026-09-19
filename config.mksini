@@ -1,0 +1,52 @@
+
+[fila]
+enable                         = 1
+
+
+[target]
+extruder                       = 240
+heaterbed                      = 85
+hot                            = 0
+
+
+[babystep]
+value                          = 0.000
+adxl_offset                    = 0.15
+
+
+[oobe]
+enable                         = 0
+
+
+[mks_ethernet]
+enable                         = 1
+
+
+[app_connection]
+method                         = 1
+
+
+[app_server]
+name                           = aws
+
+
+[mks_file_picture_refresh]
+enable                         = 1
+
+
+[total]
+time                           = 8224
+
+
+[device_code]
+value                          = t30hkrr4
+
+
+[device_state]
+state                          = printing_0.75
+
+
+[led]
+enable                         = 1
+
+
