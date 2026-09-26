@@ -1,0 +1,52 @@
+
+[fila]
+enable                         = 1
+
+
+[target]
+extruder                       = 250
+heaterbed                      = 75
+hot                            = 0
+
+
+[babystep]
+value                          = 0.000
+adxl_offset                    = 0.15
+
+
+[oobe]
+enable                         = 0
+
+
+[mks_ethernet]
+enable                         = 1
+
+
+[app_connection]
+method                         = 1
+
+
+[app_server]
+name                           = aws
+
+
+[mks_file_picture_refresh]
+enable                         = 1
+
+
+[total]
+time                           = 11209
+
+
+[device_code]
+value                          = mkx2gb8d
+
+
+[device_state]
+state                          = standby_0.00
+
+
+[led]
+enable                         = 1
+
+
